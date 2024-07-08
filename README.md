@@ -38,7 +38,7 @@ A web application that provides users with personalized news feed. Built with No
 
 4. Start the backend server
     ```bash
-   npm start
+   node index.js
 
 ### Frontend Setup
 
